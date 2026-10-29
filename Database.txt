@@ -1,10 +1,10 @@
 MrFeastProjectStudio/MrFeastProject/МрФист/МрФист/МрФист/Студия-[https://mrfeastproject.github.io/MrFeastProjectStudio.com/]
-Domen:MrFeastProjectStudio.QOS
+Domen:MrFeastProjectStudio.OFFICIAL
 MrFeastProjectBank/MrFeastProject/Bank/OnlineBank/Банк/ОнлайнБанк/МрФистБанк/МрФист-[https://mrfeastproject.github.io/MrFeastProjectBank-Web/]
-Domen:MrFeastProjectBank.QOS
+Domen:MrFeastProjectBank.OFFICIAL
 MrFeastProjectDino/MrFeastProject/Dino/Динозаврик/МрФист/МрФистДинозаврик-[https://mrfeastproject.github.io/MrFeastInfo/Dino2.html]
-Domen:MrFeastProjectDinoGO.QOS
+Domen:MrFeastProjectDinoGO.OFFICIAL
 MrFeastProjectLoneli/MrFeastProjectLoneliness/MrFeastProject/ТестНаОдиночество/ОдиночествоТест/ТестОдиночествоМрФист/Одиночество2026-[https://mrfeastproject.github.io/Loneliness/]
-Domen:MrFeastProjectLonelinessTEST2026.QOS
+Domen:MrFeastProjectLonelinessTEST2026.OFFICIAL
 MrFeastProject/MrFeastProjectFeastExecutor/FeastExecurot/Feast/Executor/Читы/Cheats/Чит/Cheat/Roblox/roblox/Роблокс/роблокс-[https://mrfeastproject.github.io/FeastExecutorOfficialKeySystem/]
-Domen:FeastExecutor_MrFeastProject.QOS
+Domen:FeastExecutor_MrFeastProject.OFFICIAL
