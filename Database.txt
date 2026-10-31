@@ -12,5 +12,9 @@ SyntexHyperSoft/SyntexHyperSoftTEST/SyntexHyperSoftQuiz/SyntexHyperSoftQuizVPN/Q
 Domen:SyntexHyperSoftQuiz.OFFICIAL/QuizVPN
 SyntexHyperSoft/KillerCasino/Best/BestCasino-[https://syntexhypersoft.github.io/MrFeastInfo/KillerCasino.html]
 Domen:SyntexHyperSoft_KillerCasino.OFFICIAL
+SyntexHyperSoft/SyntexHyperSoftNeonStar/NeonStar/Clicker/ClickerGame/clickergame/clicker/star/neonstar/neon-[https://syntexhypersoft.github.io/NeonStar/NeonStar.html]
+Domen:SyntexHyperSoft_NeonStar.OFFICIAL
+SyntexHyperSoft/3D/Game/3DGame/3d/game/3dgame/auto/AUTO/car/CAR/Car-[https://syntexhypersoft.github.io/Mini-Games]
+Domen:SyntexHyperSoft.3DCar.OFFICIAL
 Airevolution/airevolution/clickergame-[https://multicraft004-svg.github.io/Ai-revol3/]
 Domen:https://AiRevolution.com
